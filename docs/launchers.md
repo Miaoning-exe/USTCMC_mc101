@@ -34,6 +34,8 @@ Minecraft 历经十余年多个版本的更新迭代，以及模组和资源包�
 
 官网下载地址见 https://hmcl.huangyuhui.net/download/
 
+<!-- 图片样例 -->
+
 ### Plain Craft Launcher 2 (PCL 2)
 
 **PCL 2** 是一款专注于易用性的 Minecraft 启动器，其界面设计现代，操作简单，适合新手玩家使用。在支持功能上与 HMCL 几乎相同，一个区别是 PCL 2 目前仅有 Windows 版本。
@@ -41,6 +43,8 @@ Minecraft 历经十余年多个版本的更新迭代，以及模组和资源包�
 作者 B 站主页：https://space.bilibili.com/11343203
 
 下载地址见 https://afdian.com/p/0164034c016c11ebafcb52540025c377 这也是作者的赞助页面。
+
+<!-- 图片样例 -->
 
 ### Fold Craft Launcher (FCL)
 
@@ -50,6 +54,8 @@ Minecraft 历经十余年多个版本的更新迭代，以及模组和资源包�
 >
 > —— [FCL 官方介绍](https://github.com/FCL-Team/FoldCraftLauncher)
 
+<!-- 图片样例 -->
+
 ### SJMCL
 
 我不知道这是什么，反正他们很强。
@@ -58,3 +64,26 @@ Minecraft 历经十余年多个版本的更新迭代，以及模组和资源包�
 
 ## 常用皮肤站介绍
 
+具有外置登录的皮肤站一般采用现代 Yggdrasil 协议，为服务器提供统一的外置登录和皮肤服务，在社区中非常活跃。
+
+使用皮肤站加入服务器的一般步骤如下：
+
+1. 在皮肤站注册账号，设置 ID，选择或上传皮肤、披风
+2. 在启动器中配置皮肤站登录，输入账号密码；不同的启动器配置方法略有不同
+3. 启动游戏，登入同样设置皮肤站的服务器
+
+### 中科大 Minecraft 皮肤站 
+
+USTC Minecraft 皮肤站（https://mc.genshin.ac.cn）由科大校友维护，为 USTCMC 服务器提供皮肤和外置登录服务。
+
+<!-- 图片样例 -->
+
+### LittleSkin
+
+LittleSkin（https://littleskin.cn）是一个知名的中文皮肤站，提供丰富的皮肤和披风资源，以及外置登录服务。
+
+<!-- 图片样例 -->
+
+### MUA 用户中心
+
+总之存在这么一个皮肤站。地址 https://skin.mualliance.ltd/
