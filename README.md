@@ -12,6 +12,8 @@ powered by MkDocs
 - ❓以及其他在入坑 Minecraft 时可能遇见的问题
 - 🔥更不止这些……
 
+> 注：若无特殊说明，教程以 Minecraft Java 版为例。基岩版相关内容会在后续补充。
+
 ### 为什么要编写这份教程？
 
 为了及时、高效解决萌新入坑 Minecraft 时的疑惑。
