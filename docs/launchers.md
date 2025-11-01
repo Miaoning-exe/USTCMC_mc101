@@ -74,16 +74,16 @@ Minecraft 历经十余年多个版本的更新迭代，以及模组和资源包�
 
 ### 中科大 Minecraft 皮肤站 
 
-USTC Minecraft 皮肤站（https://mc.genshin.ac.cn）由科大校友维护，为 USTCMC 服务器提供皮肤和外置登录服务。
+[USTC Minecraft 皮肤站](https://mc.genshin.ac.cn)由科大校友维护，为 USTCMC 服务器提供皮肤和外置登录服务。
 
 <!-- 图片样例 -->
 
 ### LittleSkin
 
-LittleSkin（https://littleskin.cn）是一个知名的中文皮肤站，提供丰富的皮肤和披风资源，以及外置登录服务。
+[LittleSkin](https://littleskin.cn) 是一个知名的中文皮肤站，提供丰富的皮肤和披风资源，以及外置登录服务。
 
 <!-- 图片样例 -->
 
 ### MUA 用户中心
 
-总之存在这么一个皮肤站。地址 https://skin.mualliance.ltd/
+总之存在这么一个皮肤站。地址 https://skin.mualliance.ltd
