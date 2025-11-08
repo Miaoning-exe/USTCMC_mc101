@@ -6,6 +6,12 @@ Title:     Tutorial of Using Launchers
 
 # 教程：使用启动器
 
+> 前置：配置 Java 环境
+> 
+> 部分启动器可以自动下载 Java 环境。
+> 
+> 手动安装前往 [Oracle 的 Java 下载页面](https://www.oracle.com/cn/java/technologies/downloads/#java21)下载 `jdk-21`（注意操作系统），安装。
+
 本教程介绍了主流 Minecraft 启动器的基本使用方法。利用各种启动器，你可以……
 
 ## 下载游戏本体
@@ -14,7 +20,7 @@ Title:     Tutorial of Using Launchers
 
 现代的第三方启动器已经集成了下载各种 Minecraft 版本的方法。
 
-下图展示了典型的启动器内下载页面
+下图展示了 HMCL 启动器的游戏下载页面。
 
 ![](../pic/2025/11/2025-11-08%20220530.jpg)
 
@@ -83,3 +89,8 @@ HMCL 的账户管理从主界面左上角「账户」进入。
 ### 手动添加到文件夹
 
 ## 我的世界崩溃了
+
+---
+
+参考：
+- [USTC Minecraft 上服指南](https://ustcmc.com:5500/index.php?title=USTC_Minecraft_%E4%B8%8A%E6%9C%8D%E6%8C%87%E5%8D%97)
