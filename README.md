@@ -4,6 +4,28 @@ powered by MkDocs
 
 **这是中国科学技术大学 Minecraft 交流群 (USTCMC) 编写的一本 MC 综合类教程**
 
+
+<p align="center">
+    <a href="https://github.com/Miaoning-exe/USTCMC_mc101/commits/master">
+    <img src="https://img.shields.io/github/last-commit/Miaoning-exe/USTCMC_mc101.svg?style=flat&logo=github&logoColor=white"
+         alt="GitHub last commit">
+    </a>
+    <a href="https://github.com/Miaoning-exe/USTCMC_mc101/issues">
+    <img src="https://img.shields.io/github/issues/miaoning-exe/USTCMC_mc101?style=flat&logo=github&logoColor=white&color=F48D73"
+         alt="issues">
+    </a>
+    <a href="https://github.com/Miaoning-exe/USTCMC_mc101/forks">
+    <img src="https://img.shields.io/github/forks/miaoning-exe/USTCMC_mc101?style=flat&logo=github&logoColor=white&color=36cfe0"
+         alt="forks">
+    </a>
+    <a href="https://github.com/Miaoning-exe/USTCMC_mc101">
+    <img src="https://img.shields.io/github/stars/miaoning-exe/USTCMC_mc101?style=flat&logo=github&logoColor=white&color=f7e119"
+         alt="forks">
+    </a>s
+</p>
+
+
+
 ## 🚀 这份教程的内容是？
 - 💰如何购买正版 Minecraft？
 - ⚡什么是启动器？常用的启动器有哪些？
