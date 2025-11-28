@@ -21,7 +21,7 @@ powered by MkDocs
     <a href="https://github.com/Miaoning-exe/USTCMC_mc101">
     <img src="https://img.shields.io/github/stars/miaoning-exe/USTCMC_mc101?style=flat&logo=github&logoColor=white&color=f7e119"
          alt="forks">
-    </a>s
+    </a>
 </p>
 
 
